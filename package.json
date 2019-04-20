@@ -1,0 +1,16 @@
+{
+  "name": "speedtest-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "generate": "bash ./scripts/generate.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.4"
+  }
+}
