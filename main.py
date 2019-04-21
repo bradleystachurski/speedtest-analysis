@@ -1,5 +1,9 @@
 from datetime import datetime
-from bokeh.plotting import figure, output_file, save
+from bokeh.plotting import figure
+from bokeh.io import save, output_file
+from bokeh.layouts import widgetbox
+from bokeh.models.widgets import Div
+import pandas as pd
 
 with open('results.txt') as f:
     read_data = f.read()
@@ -80,8 +84,31 @@ for i in range(len(data)):
     upload.append(data[i].upload)
     ping.append(data[i].ping)
 
+
+d = {'date': date, 'download': download, 'upload': upload, 'ping': ping}
+
+df = pd.DataFrame(data=d)
+
+df['download'] = pd.to_numeric(df['download'])
+df['upload'] = pd.to_numeric(df['upload'])
+df['ping'] = pd.to_numeric(df['ping'])
+
+download_summary = df['download'].describe()
+upload_summary = df['upload'].describe()
+ping_summary = df['ping'].describe()
+
+summary = {
+    'stat': download_summary.index,
+    'download': download_summary.values,
+    'upload': upload_summary.values,
+    'ping': ping_summary.values
+}
+
+summary_df = pd.DataFrame(summary)
+summary_div = Div(text=summary_df.to_html(index=False))
+
 output_file("results.html")
 p = figure(x_axis_type='datetime', plot_width=1700)
 p.line(date, download, line_width=1)
 p.line(date, upload, line_width=1, line_color='red')
-save(p)
+save(widgetbox(p, summary_div, sizing_mode='scale_both'))

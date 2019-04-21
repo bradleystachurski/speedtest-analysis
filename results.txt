@@ -1373,3 +1373,228 @@ Ping: 15.21 ms
 Download: 88.91 Mbit/s
 Upload: 24.41 Mbit/s
 
+Sat Apr 20 11:30:24 PDT 2019
+Ping: 14.455 ms
+Download: 92.40 Mbit/s
+Upload: 31.52 Mbit/s
+
+Sat Apr 20 12:00:23 PDT 2019
+Ping: 16.325 ms
+Download: 94.86 Mbit/s
+Upload: 32.57 Mbit/s
+
+Sat Apr 20 12:30:23 PDT 2019
+Ping: 15.626 ms
+Download: 85.14 Mbit/s
+Upload: 22.22 Mbit/s
+
+Sat Apr 20 13:00:27 PDT 2019
+Ping: 22.681 ms
+Download: 53.57 Mbit/s
+Upload: 19.60 Mbit/s
+
+Sat Apr 20 13:30:24 PDT 2019
+Ping: 18.102 ms
+Download: 71.78 Mbit/s
+Upload: 32.74 Mbit/s
+
+Sat Apr 20 14:00:23 PDT 2019
+Ping: 15.765 ms
+Download: 66.72 Mbit/s
+Upload: 25.66 Mbit/s
+
+Sat Apr 20 14:30:23 PDT 2019
+Ping: 34.872 ms
+Download: 78.79 Mbit/s
+Upload: 31.99 Mbit/s
+
+Sat Apr 20 15:00:23 PDT 2019
+Ping: 16.749 ms
+Download: 70.11 Mbit/s
+Upload: 22.50 Mbit/s
+
+Sat Apr 20 15:30:26 PDT 2019
+Ping: 16.819 ms
+Download: 74.58 Mbit/s
+Upload: 16.14 Mbit/s
+
+Sat Apr 20 16:00:22 PDT 2019
+Ping: 14.179 ms
+Download: 84.17 Mbit/s
+Upload: 29.79 Mbit/s
+
+Sat Apr 20 16:30:22 PDT 2019
+Ping: 17.431 ms
+Download: 82.73 Mbit/s
+Upload: 27.21 Mbit/s
+
+Sat Apr 20 17:00:26 PDT 2019
+Ping: 17.172 ms
+Download: 80.69 Mbit/s
+Upload: 30.74 Mbit/s
+
+Sat Apr 20 17:30:23 PDT 2019
+Ping: 17.602 ms
+Download: 83.38 Mbit/s
+Upload: 26.67 Mbit/s
+
+Sat Apr 20 18:00:29 PDT 2019
+Ping: 18.332 ms
+Download: 85.32 Mbit/s
+Upload: 20.17 Mbit/s
+
+Sat Apr 20 18:30:23 PDT 2019
+Ping: 17.408 ms
+Download: 98.74 Mbit/s
+Upload: 30.56 Mbit/s
+
+Sat Apr 20 19:00:24 PDT 2019
+Ping: 15.027 ms
+Download: 83.11 Mbit/s
+Upload: 22.19 Mbit/s
+
+Sat Apr 20 19:30:29 PDT 2019
+Ping: 15.245 ms
+Download: 87.38 Mbit/s
+Upload: 14.73 Mbit/s
+
+Sat Apr 20 20:00:26 PDT 2019
+Ping: 21.843 ms
+Download: 78.57 Mbit/s
+Upload: 22.25 Mbit/s
+
+Sat Apr 20 20:30:24 PDT 2019
+Ping: 22.885 ms
+Download: 79.84 Mbit/s
+Upload: 20.30 Mbit/s
+
+Sat Apr 20 21:00:29 PDT 2019
+Ping: 13.032 ms
+Download: 56.37 Mbit/s
+Upload: 13.69 Mbit/s
+
+Sat Apr 20 21:30:31 PDT 2019
+Ping: 29.553 ms
+Download: 31.66 Mbit/s
+Upload: 8.28 Mbit/s
+
+Sat Apr 20 22:00:28 PDT 2019
+Ping: 19.768 ms
+Download: 72.76 Mbit/s
+Upload: 15.68 Mbit/s
+
+Sat Apr 20 22:30:26 PDT 2019
+Ping: 19.929 ms
+Download: 65.78 Mbit/s
+Upload: 12.54 Mbit/s
+
+Sat Apr 20 23:00:24 PDT 2019
+Ping: 17.337 ms
+Download: 77.72 Mbit/s
+Upload: 23.69 Mbit/s
+
+Sat Apr 20 23:30:23 PDT 2019
+Ping: 15.811 ms
+Download: 83.84 Mbit/s
+Upload: 34.06 Mbit/s
+
+Sun Apr 21 00:00:29 PDT 2019
+Ping: 13.266 ms
+Download: 57.83 Mbit/s
+Upload: 21.78 Mbit/s
+
+Sun Apr 21 00:30:23 PDT 2019
+Ping: 21.994 ms
+Download: 85.87 Mbit/s
+Upload: 28.40 Mbit/s
+
+Sun Apr 21 01:00:30 PDT 2019
+Ping: 19.459 ms
+Download: 38.68 Mbit/s
+Upload: 15.78 Mbit/s
+
+Sun Apr 21 01:30:24 PDT 2019
+Ping: 18.359 ms
+Download: 81.01 Mbit/s
+Upload: 16.98 Mbit/s
+
+Sun Apr 21 02:00:29 PDT 2019
+Ping: 19.0 ms
+Download: 98.25 Mbit/s
+Upload: 35.38 Mbit/s
+
+Sun Apr 21 02:30:23 PDT 2019
+Ping: 14.082 ms
+Download: 87.15 Mbit/s
+Upload: 36.28 Mbit/s
+
+Sun Apr 21 03:00:24 PDT 2019
+Ping: 14.576 ms
+Download: 92.87 Mbit/s
+Upload: 31.86 Mbit/s
+
+Sun Apr 21 03:30:23 PDT 2019
+Ping: 11.349 ms
+Download: 97.83 Mbit/s
+Upload: 41.46 Mbit/s
+
+Sun Apr 21 04:00:23 PDT 2019
+Ping: 12.627 ms
+Download: 100.15 Mbit/s
+Upload: 40.23 Mbit/s
+
+Sun Apr 21 04:30:23 PDT 2019
+Ping: 13.799 ms
+Download: 99.42 Mbit/s
+Upload: 33.61 Mbit/s
+
+Sun Apr 21 05:00:27 PDT 2019
+Ping: 13.785 ms
+Download: 77.12 Mbit/s
+Upload: 25.72 Mbit/s
+
+Sun Apr 21 05:30:22 PDT 2019
+Ping: 11.834 ms
+Download: 41.04 Mbit/s
+Upload: 37.97 Mbit/s
+
+Sun Apr 21 06:00:23 PDT 2019
+Ping: 11.631 ms
+Download: 97.24 Mbit/s
+Upload: 39.30 Mbit/s
+
+Sun Apr 21 06:30:24 PDT 2019
+Ping: 14.317 ms
+Download: 43.27 Mbit/s
+Upload: 33.75 Mbit/s
+
+Sun Apr 21 07:00:23 PDT 2019
+Ping: 16.566 ms
+Download: 91.61 Mbit/s
+Upload: 38.12 Mbit/s
+
+Sun Apr 21 07:30:27 PDT 2019
+Ping: 17.48 ms
+Download: 88.05 Mbit/s
+Upload: 18.60 Mbit/s
+
+Sun Apr 21 08:00:30 PDT 2019
+Ping: 14.962 ms
+Download: 88.33 Mbit/s
+Upload: 15.96 Mbit/s
+
+Sun Apr 21 08:30:22 PDT 2019
+Ping: 15.514 ms
+Download: 83.50 Mbit/s
+Upload: 34.32 Mbit/s
+
+Sun Apr 21 09:00:27 PDT 2019
+Ping: 15.757 ms
+Download: 66.27 Mbit/s
+Upload: 22.19 Mbit/s
+
+Sun Apr 21 09:30:28 PDT 2019
+Ping: 12.884 ms
+Download: 88.74 Mbit/s
+Upload: 24.92 Mbit/s
+
